@@ -2,7 +2,22 @@
 
 A modern, responsive product listing application built with Next.js, React, and Tailwind CSS. This project was created as part of the CloudFlex frontend assignment.
 
-## 🚀 Features
+## 🎥 Live Demo Video
+
+https://github.com/user-attachments/assets/demo-video.mp4
+
+*Watch the full application in action - showcasing responsive design, interactive filtering, and smooth navigation.*
+
+## � Key Highlights
+
+- **Fully Responsive**: Seamless experience across desktop, tablet, and mobile devices
+- **Interactive Filtering**: Real-time category-based product filtering
+- **Dynamic Routing**: Individual product detail pages with clean URLs
+- **Modern UI/UX**: Smooth animations, hover effects, and professional design
+- **Indian Localization**: Pricing in Indian Rupees with proper formatting
+- **Performance Optimized**: Next.js Image optimization and fast loading
+
+## �🚀 Features
 
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Product Grid**: Clean, modern grid layout with product cards
