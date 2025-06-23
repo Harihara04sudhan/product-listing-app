@@ -167,4 +167,4 @@ The project follows modern React and Next.js best practices:
 
 ---
 
-**Built with ❤️ for CloudFlex Assignment**
+
