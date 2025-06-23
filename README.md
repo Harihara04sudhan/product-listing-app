@@ -4,7 +4,7 @@ A modern, responsive product listing application built with Next.js, React, and 
 
 ## 🎥 Live Demo Video
 
-[![Demo Video](https://raw.githubusercontent.com/github/explore/main/topics/video/video.png)](https://raw.githubusercontent.com/Harihara04sudhan/product-listing-app/main/<path-to-video/demo-video.mp4>)
+[![Demo Video](https://raw.githubusercontent.com/github/explore/main/topics/video/video.png)](https://github.com/Harihara04sudhan/product-listing-app/blob/main/demo-video.mp4)
 
 *Watch the full application in action - showcasing responsive design, interactive filtering, and smooth navigation.*
 
